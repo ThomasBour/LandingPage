@@ -1,0 +1,37 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    width: auto;
+    margin: auto;
+}
+#date_hour{
+    justify-content: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.459);
+    border-radius: 10px;
+    width: auto;
+}
+
+.date {
+    margin-right: 5px;
+    padding-left: 25px;
+    color: #12bddbd3;
+    width: auto;
+}
+
+#hour{
+    width: 200px;
+    text-align: center;
+    color: #12bddbd3;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
